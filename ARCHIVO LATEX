@@ -1,0 +1,55 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[a4paper, top=2.4cm, bottom=2.4cm, left=2.4cm, right=2.4cm]{geometry}
+\usepackage{mathptmx}
+
+\begin{document}
+\begin{center}
+    {\title\uppercase\bfseries{BUENAS PRACTICAS PARA EL DESARROLLO DE APLICACIONES REACTIVAS}}
+    {\itshape B.I.Castellanos Valle} \\
+    {\itshape 7690-21-10973 universidad Mariano Galvez} \\
+    {\itshape Seminario de Tecnológias de Información} \\
+    {\itshape bcastellanosv2@miumg.edu.gt}
+\end{center}
+
+
+
+\noindent\textbf{Resumen} \\[0.5em]
+\textbf{Palabras Clave}\\Investigación y planificación, Diseño y experiencia de usuario, Código limpio y escalable, Seguridad en el desarrollo de las aplicaciones, Pruebas y testing, Lanzamiento y mantenimiento
+
+\vspace{1em}
+\noindent\textbf{Desarrollo del tema}\\
+Una aplicación reactiva se puede entender como aquella que responde de forma automática a ciertos eventos o datos que recibe desde una red, normalmente a través del protocolo OpenFlow. Esto permite que se adapte dinámicamente a lo que sucede en tiempo real, lo cual resulta muy útil en ciertos entornos pero cuanto al desarrollo de aplicaciones móviles, actualmente no es suficiente con que una app simplemente funcione ya que los usuarios esperan mucho más como que sea rápida, intuitiva, segura y fácil de usar. Por eso, es necesario planificar bien el proyecto desde el principio, no solo para saber qué se quiere lograr, sino también para entender qué necesitan realmente las personas que la van a usar\\
+
+\noindent
+Antes de comenzar a programar, lo ideal es tener bien claros los objetivos del proyecto. Si esos objetivos están bien definidos y responden a lo que el público espera, entonces hay más posibilidades de que el desarrollo sea exitoso y útil. También es importante pensar desde el inicio en las funciones que se van a incluir, y lo más recomendable es ir desarrollando por etapas o fases pequeñas, Eso ayuda a tener un mejor control en los proceso y nos permite avanzar sin que el proyecto se vuelva inmanejable, hacer esta planificación previa evita muchos errores y retrabajos. Además, pensar en la experiencia del usuario desde el comienzo es clave para que la app no solo cumpla su función, sino que también sea agradable de usar. En esta etapa, el uso de prototipos o wireframes es bastante común, ya que permiten visualizar cómo va a ser la aplicación antes de empezar a escribir el códig\\
+
+\noindent
+También es muy importante pensar en el diseño, la accesibilidad y la usabilidad. Para esto, lo mejor es hacer pruebas con usuarios reales. Así se puede observar cómo interactúan con la app y hacer los cambios necesarios para mejorarla. Este tipo de retroalimentación es muy valioso para lograr una app más completa y funcional\\
+
+\noindent
+Trabajar con programación reactiva nos permite crear aplicaciones más adaptables y modernas. Siempre cuando aprovechamos bien sus características como su estructura declarativa y el uso de operadores para pode manejar los datos en tiempo real es posible construir soluciones que respondan mejor a las necesidades actuales\\
+
+\noindent
+Desarrollar una aplicación móvil es un proceso que implica varios pasos, y no basta con saber programar. Es necesario planificar bien, conocer al usuario, y aplicar buenas prácticas desde el principio. Esto no solo mejora la calidad del producto, sino que también aumenta sus posibilidades de tener éxito al final el buen funcionamiento de una app no es lo único que importa. También influye mucho cómo se ve, qué tan rápido responde, si es fácil de usar y qué tan segura es. Pensar en todos estos aspectos desde la fase inicial ayuda a construir aplicaciones más sólidas, que realmente sean útiles y que puedan seguir creciendo con el tiempo.
+
+\vspace{1em}
+\noindent\textbf{Observaciones y Comentario}\\
+Durante la elaboración de este trabajo, pude comprender que desarrollar una aplicación móvil va mucho más allá de simplemente escribir código. En realidad, se trata de un proceso completo que involucra planificación, análisis de necesidades, diseño centrado en el usuario y la aplicación de buenas prácticas desde el inicio ya que una de las cosas que más me llamó la atención fue la importancia de pensar en la experiencia del usuario desde las primeras etapas del desarrollo. Muchas veces se subestima este aspecto, pero es claro que una app, por muy funcional que sea, no tendrá éxito si no es intuitiva, accesible y visualmente atractiva.\\
+
+\noindent
+También considero fundamental el uso de herramientas como los prototipos ya que ayudan a tener una visión más clara del producto final antes de entrar de lleno en la programación. ya que al realizar pruebas con usuarios reales es algo que no debería omitirse, pues permite detectar detalles que podrían pasar desapercibidos durante el diseño, por que me pareció interesante cómo esta norma si se le puede llamar asi nos dice o nos permite crear aplicaciones más dinámicas y adaptables, lo cual es muy valioso en contextos donde la respuesta en tiempo real es clave.
+
+\vspace{1em}
+\noindent\textbf{Conclusión}\\
+Adopte la naturaleza declarativa y componible de la programación reactiva y explore la amplia gama de operadores disponibles para transformar y combinar observables. Al hacerlo, liberará todo el potencial de la programación reactiva y creará aplicaciones que satisfagan las demandas del desarrollo de software moderno.\\
+
+\noindent
+El desarrollo de aplicaciones móviles es una tarea compleja que requiere una planificación meticulosa y una ejecución cuidadosa. Siguiendo estas mejores prácticas en desarrollo de apps, no solo mejorarás la calidad de tu producto, sino que también aumentarás las probabilidades de éxito en un mercado altamente competitivo.\\
+
+\noindent
+Recuerda que el éxito de una app no depende únicamente de su funcionalidad, sino también de la experiencia del usuario, la seguridad y el rendimiento. Implementar estas mejores prácticas desde el inicio te permitirá crear aplicaciones sostenibles y escalables que satisfagan las necesidades de tus usuarios.\\
+
+
+\end{document}
